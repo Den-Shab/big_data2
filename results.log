@@ -1,0 +1,24 @@
+Experiment: 1_DataNode_Spark
+  Time: 47.19 seconds
+  Driver Memory Used: 394.00 MB
+  Executors Memory Used: 0.00 MB
+  Total Memory Used: 394.00 MB
+------------------------------
+Experiment: 1_DataNode_Spark_Opt
+  Time: 44.87 seconds
+  Driver Memory Used: 410.00 MB
+  Executors Memory Used: 100.00 MB
+  Total Memory Used: 510.00 MB
+------------------------------
+Experiment: 3_DataNode_Spark
+  Time: 35.89 seconds
+  Driver Memory Used: 370.00 MB
+  Executors Memory Used: 0.00 MB
+  Total Memory Used: 370.00 MB
+------------------------------
+Experiment: 3_DataNode_Spark_Opt
+  Time: 40.52 seconds
+  Driver Memory Used: 496.00 MB
+  Executors Memory Used: 249.00 MB
+  Total Memory Used: 745.00 MB
+------------------------------
